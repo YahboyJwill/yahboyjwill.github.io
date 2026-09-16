@@ -1,0 +1,38 @@
+body {
+
+    background-color: #b383ea;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+}
+
+h1 {
+    color: #4c18f9;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    margin: 5px;
+}
+
+H2 {
+    color: #de2923;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    margin: 5px;
+}
+
+p {
+    color: #c8d4db;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #f9f9f9;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin: 10px;
+}
