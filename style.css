@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    color: #4c18f9;
+    color: #003366;
     font-family: Arial, sans-serif;
     padding: 5px;
     margin: 5px;
@@ -31,7 +31,7 @@ p {
 div {
     width: 200px;
     height: 200px;
-    background-color: #f9f9f9;
+    background-color: #FAFAFA;
     border: 1px solid #000000;
     padding: 10px;
     margin: 10px;
