@@ -27,3 +27,16 @@ p {
     margin: 10px;
 
 }
+nav {
+    padding: 10px;
+    margin: 5px;
+}
+nav a {
+    color: #de2923;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    margin: 5px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
