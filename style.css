@@ -27,6 +27,15 @@ p {
     margin: 10px;
 
 }
+
+a {
+    color:#66b3ff;
+}
+
+a:hover {
+    color: #c8d4db:
+}
+
 nav {
     padding: 10px;
     margin: 5px;
