@@ -1,7 +1,20 @@
-# Welcome to my Personal Website!!
+# Welcome to my Personal Portfolio Website!!
 
-This is my personal website created for my CMPA-3301 course at Texas Tech! Its still a work in progress, but I hope to continue to build on this website that will allow for me to showcase all the projects, and codes that I have created! Follow along with me on this journey and see how much I progress, and how innovative my projects become!
+This project was created for my CMPA-3301 course at Texas Tech University! The purpose of this website is to showcase my education, work experience, certifications, technical skills, and career goals. 
+
+I currently serve as in the United States Air Force as a Network Operations Technician and am pursuing a undergrad degree in Human Centered Artificial Intelligence at Texas Tech University. I plan to continue to update this portfolio and website as I gain more experience in both markdown, and in my career.  
 
 ## Link to my Website is below!
 
 [View my Personal Website](https://yahboyjwill.github.io) 
+
+## Personal Documentation
+
+- [Project Scope](docs/scope.md)
+- [Project Plan](docs/plan.md)
+- [Project Retrospective](docs/retrospective.md)
+
+## Website Files
+- 'index.html'
+- 'about.html'
+- 'style.css'
